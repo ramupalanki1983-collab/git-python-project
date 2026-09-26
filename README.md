@@ -281,3 +281,13 @@ Submit the public GitHub repository URL:
 ```text
 https://github.com/YOUR_USERNAME/git-python-project
 ```
+
+
+## Verified Commit History
+
+The repository was developed using multiple meaningful commits.
+
+Run the following command to view the complete commit history:
+
+```bash
+git log --oneline

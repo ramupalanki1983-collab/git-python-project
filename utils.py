@@ -1,4 +1,5 @@
 def print_heading(title):
+    print("Learning platform")
     print("\n" + "=" * 40)
     print(title)
     print("=" * 40)
